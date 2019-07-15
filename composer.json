@@ -1,5 +1,5 @@
 {
-    "name": "lws/exportactions,
+    "name": "lws/exportactions",
     "description": "Effeciently Export API Data into CSV,PDF Files",
     "homepage": "https://github.com/Phaniraj35/laravel-exporter",
     "license": "MIT",
