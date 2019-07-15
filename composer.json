@@ -1,19 +1,13 @@
 {
-    "name": "jeroen-g/laravel-packager",
-    "description": "A cli tool for creating Laravel packages.",
-    "keywords": [
-        "Packager",
-        "Laravel",
-        "package",
-        "skeleton"
-    ],
-    "homepage": "https://github.com/Jeroen-G/laravel-packager",
-    "license": "EUPL-1.1",
+    "name": "lws/exportactions,
+    "description": "Effeciently Export API Data into CSV,PDF Files",
+    "homepage": "https://github.com/Phaniraj35/laravel-exporter",
+    "license": "MIT",
     "authors": [
         {
-            "name": "JeroenG",
-            "email": "jeroengjeroeng@gmail.com",
-            "homepage": "https://github.com/Jeroen-G"
+            "name": "Phaniraj K",
+            "email": "phaniitng@gmail.com",
+            "homepage": "https://github.com/Phaniraj35"
         }
     ],
     "require": {
@@ -36,9 +30,6 @@
         "psr-4": {
             "LWS\\ExportActions\\Tests\\": "tests"
         }
-    },
-    "suggest": {
-        "sensiolabs/security-checker": "Required to use the security check command"
     },
     "extra": {
         "laravel": {
